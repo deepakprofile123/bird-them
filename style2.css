@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#about{
+    background-color:  #1abc9c;
+}
+h3{
+    padding-top: 50px;
+    padding-bottom: 30px;
+    color:white;
+    margin: 0;
+}
+#about2{
+    background-color: #474e5d;
+}
+.mybtn{
+    padding-bottom: 20px !important;
+}
+#about3 h3{
+    color: #1abc9c;
+}
+.row{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+#footer{
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+#footer p{
+    color: black;
+}
